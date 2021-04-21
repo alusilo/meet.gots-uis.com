@@ -1,0 +1,10 @@
+# ignore all
+lang
+libs
+load-test
+prosody-plugins
+scripts
+sounds
+*.txt
+*.json
+!.gitignore
